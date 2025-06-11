@@ -1,2 +1,2 @@
-# Quang Vocab App
-Tự học tiếng Trung trên điện thoại và máy tính.
+# Quang App - Phân quyền cơ bản
+Chỉ cho phép email quangdph@gmail.com truy cập.
